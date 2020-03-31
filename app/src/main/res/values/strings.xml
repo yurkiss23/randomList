@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">randomList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="user_name">Ім`я_прізвище</string>
+    <string name="user_address">Країна_місто</string>
+    <string name="user_age">Вік</string>
+</resources>
